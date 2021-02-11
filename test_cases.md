@@ -6,6 +6,7 @@ Test case №1. Sending a message to a user in a regular chat
  **Pre Conditions:**  We are in app and we have an active default chat with user.
 
  **Steps to reproduce :** 
+ 
    1. Click on “Chats” icon at the bottom
    2. In the list of chats choose a chat
    3. Insert “test text” in input field 
@@ -21,6 +22,7 @@ Test case № 2. Receiving a message from a user in a regular chat
  **Pre Conditions :** We are in app and we have an active default chat with user.
 
  **Steps to reproduce :** 
+ 
    1. Click on “Chats” icon at the bottom
    2. In the list of chats choose a chat
    3. Wait until user sent you a respond message
@@ -35,6 +37,7 @@ ___
 **Pre Conditions :** We are in mobile version of an app and we have an active default chat with user.
 
 **Steps to reproduce :**
+
     1. Click on (three dots) button in the right upper corner in telegram app.
     2. Choose (Video Call).
     3. Wait untill user respond.
@@ -50,6 +53,7 @@ Test case № 4. Sending a file to a user
  **Pre Conditions :** We are in mobile version of an app and we have an active default chat with user.
   
   **Steps to reproduce :**
+  
    1. Click on spiral image in the lower right corner of an app.
    2. Choose a file from gallery and click on it
    3. Click on blue button to approve sending file.
