@@ -1,4 +1,4 @@
-##Test case №1. Sending a message to a user in a regular chat 
+Test case №1. Sending a message to a user in a regular chat 
 ---
  **Created date   10.02.2021**
  
@@ -14,7 +14,7 @@
 **Expected result:** Receiver gets “test text” message
 
 ___
-##Test case № 2. Receiving a message from a user in a regular chat
+Test case № 2. Receiving a message from a user in a regular chat
 ----
  **Created date 10.02.2021**
  
@@ -28,7 +28,7 @@ ___
    **Expected result:** You have got a message from user
 
    ___
-##Test case № 3. A phone call in a telegram messanger
+Test case № 3. A phone call in a telegram messanger
 ___
 **Created data 10.02.2021**
 
@@ -43,7 +43,7 @@ ___
 
 ___
 
-##Test case № 4. Sending a file to a user
+Test case № 4. Sending a file to a user
 
 **Created date 10.02.2021**
  
